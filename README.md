@@ -14,6 +14,10 @@
     
     Padrões geográficos e de frequência das publicações.
 
+## 🎥 Visualização do Dashboard
+
+<img width="100%" alt="Dashboard" src="https://github.com/GuilhermeSecco/JobScraper-BI-Dashboard/blob/main/Visualizao_Menor_Dashboard.gif?raw=true" />
+
 ## ⚙️ Tecnologias Utilizadas
 
 ### Python
